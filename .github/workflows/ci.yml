@@ -29,5 +29,4 @@ jobs:
           
       - run: |
           ls
-          cd cloud-foundation-fabric
           git status
